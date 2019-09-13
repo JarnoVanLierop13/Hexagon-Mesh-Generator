@@ -1,11 +1,11 @@
-Hexagon mesh generator/[Ll]ibrary/
-Hexagon mesh generator/[Tt]emp/
-Hexagon mesh generator/[Oo]bj/
-Hexagon mesh generator/[Bb]uild/
-Hexagon mesh generator/[Bb]uilds/
-Hexagon mesh generator/[Ll]ogs/
-Hexagon mesh generator/Assets/AssetStoreTools*
-Hexagon mesh generator/[Mm]emoryCaptures/
+Hexagon*mesh*generator/[Ll]ibrary/
+Hexagon*mesh*generator/[Tt]emp/
+Hexagon*mesh*generator/[Oo]bj/
+Hexagon*mesh*generator/[Bb]uild/
+Hexagon*mesh*generator/[Bb]uilds/
+Hexagon*mesh*generator/[Ll]ogs/
+Hexagon*mesh*generator/Assets/AssetStoreTools*
+Hexagon*mesh*generator/[Mm]emoryCaptures/
 
 # Visual Studio cache directory
 .vs/
