@@ -1,4 +1,4 @@
-# Naam Proefopdracht
+# Hexagon mesh generator
 *Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
 Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
