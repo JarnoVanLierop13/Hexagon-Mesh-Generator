@@ -9,7 +9,7 @@ voor software heb ik Unity gebruikt.
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 - met hexagons werken, er meer over leren.
-- 
+- een generator maken
 
 
 ## Planning 
