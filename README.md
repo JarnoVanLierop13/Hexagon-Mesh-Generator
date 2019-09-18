@@ -24,8 +24,8 @@ Mijn planning voor deze opdracht:
 
 |       | maandag   | dinsdag   | woensdag   | donderdag   | vrijdag   |
 | ---   | ---       | ---       | ---        | ---         | ---       |
-|week 1 |           |           |            |             |           |  
-|week 2 |           |           |            |             |           |
+|week 1 |           |           |            |             |onderzoek  |  
+|week 2 | generator |button     |polish      |portfolio(+) |           |
 
 ## Bronnen
 Deze bronnen heb ik gebruikt voor deze opdracht:
