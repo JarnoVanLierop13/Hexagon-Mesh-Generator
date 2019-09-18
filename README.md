@@ -10,6 +10,8 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 - met hexagons werken, er meer over leren.
 - een generator maken
 
+## opdracht:
+ - [opdracht](http://24877.hosts.ma-cloud.nl/oefenopdrachten/06/index.html)
 
 ## Planning 
 Mijn planning voor deze opdracht:
