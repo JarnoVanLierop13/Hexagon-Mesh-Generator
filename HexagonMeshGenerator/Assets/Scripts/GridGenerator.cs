@@ -6,12 +6,12 @@ public class GridGenerator : MonoBehaviour
 {
     public Transform hexPrefab;
 
-    public int gridWidth = 11;
-    public int gridHeight = 11;
+    public int gridWidth;
+    public int gridHeight;
 
     float hexWidth = 1.732f;
     float hexHeight = 2.0f;
-    public float gap = 0.0f;
+    public float gap;
 
     Vector3 startPos;
 
