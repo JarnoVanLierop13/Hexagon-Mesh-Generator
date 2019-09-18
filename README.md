@@ -20,7 +20,7 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 - etc. etc.
 
 ## Planning 
-Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
+Mijn planning voor deze opdracht:
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | ---   | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 |week 2 |     |     | af  |     |     |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
+Deze bronnen heb ik gebruikt voor deze opdracht:
 
 - [intro to hex-map](https://catlikecoding.com/unity/tutorials/hex-map/part-1/)
 - [hexagon grid in unity](https://www.youtube.com/watch?v=konL0iB5gPI)
