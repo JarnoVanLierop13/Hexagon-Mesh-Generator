@@ -22,12 +22,10 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 ## Planning 
 Mijn planning voor deze opdracht:
 
-| |      ||maandag  | dinsdag  | woensdag  | donderdag | vrijdag |
-|--------| ---------|----------|-----------|-----------|---------|
-|week 1  |          |          |           |           |start    |
-|        |          |          |           |           |onderzoek|
-|week 2  |          |          |af         |           |         |  
-|        |          |          |           |           |         |    
+|       | maandag | dinsdag | woensdag | donderdag | vrijdag |
+| ---   | ---     | ---     | ---      | ---       | ---     |
+|week 1 |  
+|week 2 |
 
 ## Bronnen
 Deze bronnen heb ik gebruikt voor deze opdracht:
