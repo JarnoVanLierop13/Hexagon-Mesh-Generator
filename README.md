@@ -1,23 +1,16 @@
 # HexagonMeshGenerator
 *Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
-
-## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
-
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+deze opdracht is een hexagon mesh generator.
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+voor software heb ik Unity gebruikt.
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+- met hexagons werken, er meer over leren.
+- 
+
 
 ## Planning 
 Mijn planning voor deze opdracht:
