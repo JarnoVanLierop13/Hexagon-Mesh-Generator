@@ -25,7 +25,9 @@ Mijn planning voor deze opdracht:
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | ---   | --- | --- | --- | --- | --- |
 |week 1 |     |     |     |     |start|
+|       |     |     |     |     |     |
 |week 2 |     |     | af  |     |     |
+|       |     |     |     |     |     |
 
 ## Bronnen
 Deze bronnen heb ik gebruikt voor deze opdracht:
