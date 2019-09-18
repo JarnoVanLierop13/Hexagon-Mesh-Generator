@@ -31,5 +31,4 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [intro to hex-map](https://catlikecoding.com/unity/tutorials/hex-map/part-1/)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [hexagon grid in unity](https://www.youtube.com/watch?v=konL0iB5gPI)
